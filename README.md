@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6A5ACD,50:6C63FF,100:00C9FF&text=Ayush%20Agarwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Open%20Source%20Contributor&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6A5ACD,50:6C63FF,100:00C9FF&text=Ayush%20Agarwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Competitive%20Programmer%20&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=900&lines=Building+AI+Products;LLMs+%7C+RAG+%7C+Agents;Competitive+Programmer;Hackathon+Enthusiast;Always+Learning+Something+New+🚀"/>
 
