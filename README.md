@@ -84,7 +84,6 @@
 | 💬 RAG Chatbot | Semantic search + LLM responses |
 | ⚡ Hackathon Projects | Competition-ready AI solutions |
 
-> Pin your best repositories on GitHub so these projects appear prominently.
 
 ## 📫 Connect
 
@@ -107,9 +106,3 @@
 
 </div>
 
-## 🔧 Optional Enhancements
-
-- Add GitHub Action: Platane/snk for the snake animation.
-- Add WakaTime stats if you use WakaTime.
-- Pin your top 6 repositories.
-- Replace the Featured Repositories table with GitHub repo cards if desired.
