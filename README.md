@@ -88,6 +88,9 @@
 ## 📫 Connect
 
 <p align="center">
+  <a href="https://www.instagram.com/ayushagarwal646/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
 <a href="https://linkedin.com/in/AyushAgarwal094"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:ayushagarwal5840@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://github.com/AyushAgarwal5840"><img src="https://skillicons.dev/icons?i=github"/></a>
