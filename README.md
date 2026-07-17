@@ -65,15 +65,15 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushAgarwal5840&theme=tokyo-night"/>
 </p>
 
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
-After enabling the `Platane/snk` GitHub Action, uncomment this:
 
-<!--
+
+!--
 <p align="center">
 <img src="https://raw.githubusercontent.com/AyushAgarwal5840/AyushAgarwal5840/output/github-contribution-grid-snake-dark.svg"/>
 </p>
--->
+--
 
 ## 🚀 Featured Repositories
 
