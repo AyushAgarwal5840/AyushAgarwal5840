@@ -1,7 +1,3 @@
-# Premium GitHub Profile README
-
-> This README is designed to be used as the contents of your profile repository
-> `AyushAgarwal5840/AyushAgarwal5840`.
 
 <div align="center">
 
